@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lumigent",
+  "private_key_id": "f618e674b8edaa9109fc07b77d742688908b9401",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoL9OCs2HKVSYa\nhOuDGyj1WlkG6OxwueiYH4aPo2q+62j4RmSpPdh3tm1wTjFUhY4BMkTaGxm7m4KY\ntvF/tEH8Z4GaPO2ND7m4qzme7JzJXW0ycCmqwo5TdsePZloISQlu5X6gyTL+xKH7\nliP4ZqZCyvXb//Ef/dMs6gwaecfzK73gefNRfRoo9XgGUadThzy8h0AY9V1V198h\n8baBJIM3FT6M4dTLkaN0PLWGu+kzySPrSRXAfYeO84Q8PwjIvd6x3RKIThD8yvpP\nPTVvLtqs2VBWfk1NsONBd2WIYBVMM+xdLa9p9+nIK8zMihmwKxTg2LEyTNVqk3q+\nrqniOd1VAgMBAAECggEABCwDiXdyUow1gMI7+/7oJNs+isRWW8l7co09pOx/Jl3n\n4a4QAH656Duh5VTwi6cwdD55+hW4ArEDK/nwbaQxYCsfyjf+sIQWWEqvCDktqR+5\n017NjyB6Wqmp85hXXWM/v6d5B6YAr38ogXl3n57JkFiWgVmM8qffiCVaHYIDKrio\nbBkMSMRfdCsYMNc6uY5JNpoWMFXEq89U/O8bnKMFpkUaPSIC5+83Il9rrLXUGo/S\nC6ZEzGe34jN6qD9K93KpKlutFbxu41MI3xxBYObFI5hxHZZXEuZE8IUCnf1VX6nt\nOLzKWOnbWdHdH9SEhbL6jDXDc9HH6VJ88ptYglgKlQKBgQDPf/1lyufgBLcI0mPW\ncG0RPssHI9t6XbVLww378qJWrFt5UYbDjz0Vj9O43QcKU1LLf1M2MXJGKVqu/SpM\n7p2SUEv22RJRdAt/cD7upNBeNNgnHvW84/+WFhM11oYbIhOljq+/Wg1Ukj8nrphQ\njkfvcT1HjZQB8VI/BuQyyIsgPwKBgQDPf3zBT620rQ4IikNx9tZVw6itG1JQUpO5\n6O0yOXpOxdFCSBJcW/ai9B9jABSXbVxfHnx+0PGzAC3gyPvESp8FThClCrJVLCpf\ntdHzCs4TiJr0F1ZHQThjCgPKcGcRrltY6qAYoc9ZyffwfXuFEcxuXn+Xy+Vu/TUe\nJoBUS4PdawKBgHCWmf/poPdEl6wJvHJWflelIrS1GBnFTuHU7HmQpdUxoFCrk9v4\nlMRmThM4muFXZM1WQOhe3AqF1datN46WypjhSNaf4figZry3Qu5qL0VulvpjKiNb\n8wqU38eOpyWBz/c8/M9vJVyGHg6CBdNv4EhjwURZ5b1IG8BnFNsZRaQxAoGBALH5\nU3Qrd36FAIhqrzbM1UJys/bmfE/QxEytcOWnTzTJj5ceYkE9z+otIc60fvTzJEuh\nxn6vkOBLww4O1YOjzYmrT7N/3T4Yx6+YMCAaoG84uE+sxKARXN/18xJsHruXpVo6\nxF7cSxFknnlz58JXZdU00JPOm1f7btgRhfjHXK9JAoGATS9vJqnSOOi6opNYInxd\nQPYHcb9ZWedrI0cVrBpCgaoDVTeruNNnlcfhY5HepA8CWT1ljFp3eiaBJFXhtxF4\n2v4lJVcBfbwudf9DtYolzUVRSW/t+axzGrElumtY7ikFz4j/IErEbO1fH5CG02nb\nWzVjSXqTdky1jsi57isLdNg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lumigent@lumigent.iam.gserviceaccount.com",
+  "client_id": "117755889522405699648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lumigent%40lumigent.iam.gserviceaccount.com"
+}
